@@ -86,6 +86,7 @@ jQuery(document).ready(function(){
                 url: url,
                 success: function(d){
                     $('.show').html(d);
+                    updateUser();
                     deleteUser();
                 }
             });

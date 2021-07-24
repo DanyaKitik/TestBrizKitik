@@ -10,7 +10,7 @@ git clone https://github.com/mcnika/test_briz.git
 
 2. Move to the newly created folder:
 ```
-cd laravel-ajax-crud
+cd test_briz
 ```
 
 3. Install all the dependencies:
