@@ -10,7 +10,7 @@ git clone https://github.com/mcnika/test_briz.git
 
 2. Move to the newly created folder:
 ```
-cd test_briz
+cd KitikTestBriz
 ```
 
 3. Install all the dependencies:
